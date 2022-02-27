@@ -13,6 +13,6 @@ int main()
        perror("fopen error\n");
     }
 
-    printf("hello world");
+    printf("hello world dev");
     return 0;
 }
